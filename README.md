@@ -1,2 +1,1 @@
-# pruebas-soportec
- 
+# pruebas-soportec.github.io
